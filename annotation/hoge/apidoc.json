@@ -1,0 +1,14 @@
+{
+  "name": "Hoge API",
+  "version": "0.0.1",
+  "description": "API Document of Hoge",
+  "title": "Hoge API",
+  "header": {
+    "title": "General",
+    "filename": "header.md"
+  },
+  "footer": {
+    "title": "Appendix",
+    "filename": "footer.md"
+  }
+}
